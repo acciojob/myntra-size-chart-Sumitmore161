@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	width:100%;
+}
+td{
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+thead td {
+	text-align: left;
+	background-color:#C0504D;
+	color: white;
+}
+tbody tr > :first-child{
+	text-align: left;
+	
+}
+tbody td {
+	text-align: right;
+}
