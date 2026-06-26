@@ -9,7 +9,11 @@ td{
 	border-collapse: collapse;
 	border: 1px solid black;
 }
-thead td {
+th {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+thead th {
 	text-align: left;
 	background-color:#C0504D;
 	color: white;
